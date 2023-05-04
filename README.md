@@ -32,7 +32,7 @@ event is an exponential random variable with rate λ + μ.
 of random number of length approximately to integer value equal to T1(interval 
 of time generated from exponential random number) having p between 0 and 1. 
 - Running loop till integer value equal to T1(interval of time generated from 
-exponential random number). If p < , then the event is an arrival, 
+exponential random number). If p < λ/λ + μ , then the event is an arrival, 
 otherwise it’s a departure. If its arrival we calculate the number of packets in the 
 time interval T1 in count1 and if its departure then we calculate number packets 
 that departed in count2. 
