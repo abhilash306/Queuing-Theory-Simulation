@@ -1,5 +1,5 @@
 # Queuing-Theory-Simulation
-Generate Poisson distributed random packet arrival process &amp; M/M/1 Queue model
+
 # Problem 1
 Generate Poisson distributed random packet arrival process with arrival rate λ= 
 5 packets per second from the first principles (i.e., using basic uniformly 
